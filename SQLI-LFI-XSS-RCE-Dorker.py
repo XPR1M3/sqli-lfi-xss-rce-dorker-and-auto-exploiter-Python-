@@ -2,7 +2,7 @@
 # This was written for educational purpose and pentest only. Use it at your own risk.
 # Author will be not responsible for any damage!
 # !!! Special greetz for my friend sinner_01 !!!
-# Toolname        : darkd0rk3r.py
+# Toolname        : SQLI-LFI-XSS-RCE-Dorker.py
 # Coder           : 3NCRYP73D_GH057 <70x1cph4n70m@gmail.com>
 # Version         : 1.0
 # greetz for all members of ex darkc0de.com, ljuska.org
