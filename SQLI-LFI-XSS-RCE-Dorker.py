@@ -22,8 +22,8 @@ B = "\033[34m";
 # Banner
 def logo():
     print R + "\n|---------------------------------------------------------------|"
-    print "| 70x1cph4n70m@gmail.com                                        |"
-    print "|               darkd0rk3r.py  v.1.0                            |"
+    print "|               70x1cph4n70m@gmail.com                          |"
+    print "|               SQLI-LFI-XSS-RCE-Dorker.py.py  v.1.0            |"
     print "|                                                               |"
     print "|                                                               |"
     print "|---------------------------------------------------------------|\n"
